@@ -1,14 +1,14 @@
 # c_snhu_CS210
 Project 3
 
--This project was the final project for SNHU CS 210. The point of the project was to allow the user to type in a grocery item and the program would tell you how many times the item is on the provided list of grocery items. It can also provide you a written number for all of your searches on the list or a histogram of the items that you searched for.  
+-This project was my Project 3 for CS-210. This project tasked me with creating an application that could create and store new grocery list, lookup item counts from an existing database, save new data and create files. It can also provide you a number for all of your searches, and/or a histogram of the items that you were looking for. 
 
--Overall the program works very well with little issues. The search function works very well with not coming up with errors. It also has no issues saving your searches to a .dat file after the program is closed.  
+-Overall the program works pretty well without any issues that instantly come to mind.
 
--Where the code could be enhanced is it is case sensitive. All the items on the list have the first letter capitalized but that was not clear when prompted to search for an item. I would improve it by allowing it to search for any item with any case.  
+-As far as I can tell the program works exactly as described and doesn't have an blatant errors or issues that you may run into, it loops well and the function ends when desired.
 
--The most challenging to write was the search function because it required opening a file searching the file and then closing the file. In order to do this I had to include loops and counters so it would run smoothly.  
+-The most challenging part of the project was definitley creating the loops as stated above and making sure the my if-else statements would cover my bases if users input incorrect information.
 
--I believe the skills this project enhanced was being able to take an idea and code it into a workable project that can be used by the customer. It also required a good structure for the code so it could be easy to be read.  
+-This project definitley helped me sharpen all of my C++ skills and become much more knowledgable on how to create loops and it definitley was a challenge. The skills that I think will be able to transfer is just the ability to create a project without having the exact instructions or framework in front of me, being able to interpret and provide what a client wants.
 
--In order to make this program maintainable, readable, and adaptable I would add another function to the menu to allow the user to add items to the list so as the store acquires more items it will be tracked and can be searched for. I would also add a function to remove items from the list so as items sold or expired they could be removed.   
+-In order to make this program maintainable, readable, and adaptable I must keep it neat and not cluttered, label the different sections of code, and make sure that my in-line comments are accurate and describe and explain what exactly the code is doing.
