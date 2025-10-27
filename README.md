@@ -1,4 +1,3 @@
-# c_snhu_CS210
 Project 3
 
 -This project was my Project 3 for CS-210. This project tasked me with creating an application that could create and store new grocery list, lookup item counts from an existing database, save new data and create files. It can also provide you a number for all of your searches, and/or a histogram of the items that you were looking for. 
